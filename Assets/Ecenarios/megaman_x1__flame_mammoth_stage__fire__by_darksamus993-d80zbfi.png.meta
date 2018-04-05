@@ -1,0 +1,2007 @@
+fileFormatVersion: 2
+guid: f4ca86b0479676c40a6d8a8391a7cbf4
+timeCreated: 1522793321
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_0
+    21300002: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_1
+    21300004: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_2
+    21300006: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_3
+    21300008: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_4
+    21300010: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_5
+    21300012: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_6
+    21300014: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_7
+    21300016: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_8
+    21300018: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_9
+    21300020: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_10
+    21300022: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_11
+    21300024: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_12
+    21300026: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_13
+    21300028: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_14
+    21300030: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_15
+    21300032: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_16
+    21300034: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_17
+    21300036: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_18
+    21300038: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_19
+    21300040: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_20
+    21300042: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_21
+    21300044: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_22
+    21300046: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_23
+    21300048: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_24
+    21300050: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_25
+    21300052: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_26
+    21300054: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_27
+    21300056: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_28
+    21300058: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_29
+    21300060: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_30
+    21300062: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_31
+    21300064: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_32
+    21300066: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_33
+    21300068: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_34
+    21300070: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_35
+    21300072: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_36
+    21300074: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_37
+    21300076: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_38
+    21300078: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_39
+    21300080: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_40
+    21300082: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_41
+    21300084: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_42
+    21300086: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_43
+    21300088: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_44
+    21300090: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_45
+    21300092: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_46
+    21300094: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_47
+    21300096: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_48
+    21300098: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_49
+    21300100: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_50
+    21300102: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_51
+    21300104: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_52
+    21300106: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_53
+    21300108: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_54
+    21300110: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_55
+    21300112: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_56
+    21300114: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_57
+    21300116: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_58
+    21300118: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_59
+    21300120: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_60
+    21300122: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_61
+    21300124: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_62
+    21300126: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_63
+    21300128: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_64
+    21300130: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_65
+    21300132: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_66
+    21300134: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_67
+    21300136: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_68
+    21300138: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_69
+    21300140: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_70
+    21300142: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_71
+    21300144: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_72
+    21300146: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_73
+    21300148: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_74
+    21300150: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_75
+    21300152: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_76
+    21300154: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_77
+    21300156: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_78
+    21300158: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_79
+    21300160: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_80
+    21300162: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_81
+    21300164: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_82
+    21300166: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_83
+    21300168: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_84
+    21300170: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_85
+    21300172: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_86
+    21300174: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_87
+    21300176: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_88
+    21300178: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_89
+    21300180: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_90
+    21300182: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_91
+    21300184: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_92
+    21300186: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_93
+    21300188: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_94
+    21300190: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_95
+    21300192: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_96
+    21300194: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_97
+    21300196: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_98
+    21300198: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_99
+    21300200: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_100
+    21300202: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_101
+    21300204: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_102
+    21300206: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_103
+    21300208: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_104
+    21300210: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_105
+    21300212: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_106
+    21300214: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_107
+    21300216: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_108
+    21300218: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_109
+    21300220: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_110
+    21300222: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_111
+    21300224: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_112
+    21300226: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_113
+    21300228: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_114
+    21300230: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_115
+    21300232: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_116
+    21300234: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_117
+    21300236: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_118
+    21300238: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_119
+    21300240: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_120
+    21300242: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_121
+    21300244: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_122
+    21300246: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_123
+    21300248: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_124
+    21300250: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_125
+    21300252: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_126
+    21300254: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_127
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 881
+        width: 8194
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_1
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 868
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_2
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 868
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_3
+      rect:
+        serializedVersion: 2
+        x: 5884
+        y: 868
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_4
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 868
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_5
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 868
+        width: 90
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_6
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 839
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_7
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 839
+        width: 178
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_8
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 839
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_9
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 839
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_10
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 839
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_11
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 839
+        width: 114
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_12
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 839
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_13
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 839
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_14
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 839
+        width: 114
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_15
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 839
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_16
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 839
+        width: 146
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_17
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 839
+        width: 202
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_18
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 844
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_19
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 844
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_20
+      rect:
+        serializedVersion: 2
+        x: 5884
+        y: 844
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_21
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 844
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_22
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 844
+        width: 90
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_23
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 805
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_24
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 800
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_25
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 800
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_26
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 800
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_27
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 800
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_28
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 800
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_29
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 800
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_30
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 787
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_31
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 787
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_32
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 773
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_33
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 803
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_34
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 803
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_35
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 795
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_36
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 795
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_37
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 786
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_38
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 776
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_39
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 776
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_40
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 776
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_41
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 776
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_42
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 776
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_43
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 776
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_44
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 782
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_45
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 782
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_46
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 766
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_47
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 766
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_48
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 767
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_49
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 752
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_50
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 752
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_51
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 752
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_52
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 752
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_53
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 752
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_54
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 752
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_55
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 750
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_56
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 750
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_57
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 722
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_58
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 761
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_59
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 761
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_60
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 748
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_61
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 728
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_62
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 728
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_63
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 728
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_64
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 728
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_65
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 728
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_66
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 728
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_67
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 740
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_68
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 740
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_69
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 737
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_70
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 737
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_71
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 704
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_72
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 704
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_73
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 704
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_74
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 704
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_75
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 704
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_76
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 704
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_77
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 713
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_78
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 713
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_79
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 671
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_80
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 708
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_81
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 708
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_82
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 680
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_83
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 680
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_84
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 680
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_85
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 680
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_86
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 680
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_87
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 680
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_88
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 676
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_89
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 676
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_90
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 656
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_91
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 656
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_92
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 656
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_93
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 656
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_94
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 656
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_95
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 656
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_96
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 620
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_97
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 632
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_98
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 632
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_99
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 632
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_100
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 632
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_101
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 632
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_102
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 632
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_103
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 608
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_104
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 608
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_105
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 608
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_106
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 608
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_107
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 608
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_108
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 608
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_109
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 584
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_110
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 584
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_111
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 584
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_112
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 584
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_113
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 584
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_114
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 584
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_115
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 560
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_116
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 560
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_117
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 560
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_118
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 560
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_119
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 560
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_120
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 560
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_121
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 536
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_122
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 536
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_123
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 536
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_124
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 536
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_125
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 536
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_126
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 536
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1__flame_mammoth_stage__fire__by_darksamus993-d80zbfi_127
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 4098
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

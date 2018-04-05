@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: f74e2affbbfbf9e408406cce8ae48f76
+timeCreated: 1522861458
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_0
+    21300002: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_1
+    21300004: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_2
+    21300006: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_3
+    21300008: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_4
+    21300010: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_5
+    21300012: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_6
+    21300014: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_7
+    21300016: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_8
+    21300018: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_9
+    21300020: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_10
+    21300022: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_11
+    21300024: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_12
+    21300026: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_13
+    21300028: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_14
+    21300030: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_15
+    21300032: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_16
+    21300034: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_17
+    21300036: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_18
+    21300038: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_19
+    21300040: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_20
+    21300042: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_21
+    21300044: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_22
+    21300046: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_23
+    21300048: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_24
+    21300050: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_25
+    21300052: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_26
+    21300054: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_27
+    21300056: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_28
+    21300058: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_29
+    21300060: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_30
+    21300062: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_31
+    21300064: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_32
+    21300066: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_33
+    21300068: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_34
+    21300070: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_35
+    21300072: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_36
+    21300074: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_37
+    21300076: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_38
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1106
+        width: 3811
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_1
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 2130
+        width: 640
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_2
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 2130
+        width: 752
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 74
+        width: 2559
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_4
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 458
+        width: 18
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_5
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 1035
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_6
+      rect:
+        serializedVersion: 2
+        x: 4283
+        y: 1029
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_7
+      rect:
+        serializedVersion: 2
+        x: 4301
+        y: 1035
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_8
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 1035
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_9
+      rect:
+        serializedVersion: 2
+        x: 4373
+        y: 1035
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_10
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 1035
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_11
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 1029
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_12
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 1035
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_13
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 1035
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_14
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 1035
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_15
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 1035
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_16
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 1035
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_17
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 1035
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_18
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1035
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_19
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 1035
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_20
+      rect:
+        serializedVersion: 2
+        x: 4577
+        y: 1035
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_21
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 852
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_22
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 195
+        width: 2599
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_23
+      rect:
+        serializedVersion: 2
+        x: 5725
+        y: 852
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_24
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 767
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_25
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 692
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_26
+      rect:
+        serializedVersion: 2
+        x: 5725
+        y: 692
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_27
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 532
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_28
+      rect:
+        serializedVersion: 2
+        x: 5725
+        y: 532
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_29
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 372
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_30
+      rect:
+        serializedVersion: 2
+        x: 5725
+        y: 372
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_31
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 4
+        width: 615
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_32
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 212
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_33
+      rect:
+        serializedVersion: 2
+        x: 5725
+        y: 212
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_34
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 212
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 639
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 27
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_37
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 29
+        width: 1280
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mega_man_x1__sigma_fortress_stage_2_by_darksamus993-d7b6o59_38
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 4
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
